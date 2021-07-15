@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img title="Amazon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/175px-Amazon_logo.svg.png" alt="Amazon Logo" width="400" />
+  <img title="Amazon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Amazon.com-Logo.svg/800px-Amazon.com-Logo.svg.png" alt="Amazon Logo" width="400" />
   <br>
   Amazon Clone Built Using React.JS & Firebase
 </h1>
