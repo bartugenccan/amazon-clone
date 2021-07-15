@@ -40,6 +40,6 @@ The Shopping Basket page contains all the items that the user adds to basket. Wh
  <div align="center"><a name="menu"></a>
 
    <img alt="Home Page" src="./public/images/4.PNG" />
-   <img alt="Home Page" src="./public/images/5PNG" />
+   <img alt="Home Page" src="./public/images/5.PNG" />
 </div>
 
